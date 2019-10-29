@@ -6,7 +6,7 @@ https://learn.unity.com/project/2d-roguelike-tutorial?language=en&courseId=5c87c
 ***
 GameManager schema :
 
-![GitHub Logo](...)
+![GitHub Logo](gridView.PNG)
 
 
 ***
