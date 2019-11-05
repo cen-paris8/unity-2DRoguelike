@@ -8,7 +8,6 @@ GameManager schema :
 
 ![GitHub Logo](gridView.PNG)
 
-
 ***
 Game :
 https://cen-paris8.github.io/unity-2DRoguelike/gh-pages/
