@@ -13,29 +13,28 @@ GameManager schema :
 Game :
 https://cen-paris8.github.io/unity-2DRoguelike/gh-pages/
 
-![GitHub Logo](...)
 ***
 To Play :  
 
 Player One :  
-	* Up : Up 
+	* Up : Up  
 	* Down : Down  
-	* Turn Right : Right
-	* Turn Left : Left 
+	* Turn Right : Right  
+	* Turn Left : Left  
 	  
 	
 ***
 
-Notions abordées:
-* Les génériques : List<>
-* Objets sérialisés
-* Set Up d'une scène avec des éléments random.
-* Les Coroutines et les déplacement smoothy
-* Les classes virtuelles et leur dérivées.
+Notions abordÃ©es:
+* Les gÃ©nÃ©riques : List<>
+* Objets sÃ©rialisÃ©s
+* Set Up d'une scÃ¨ne avec des Ã©lÃ©ments random.
+* Les Coroutines et les dÃ©placement smoothy
+* Les classes virtuelles et leur dÃ©rivÃ©es.
 * Keyword base 
 * Epsilon : la plus petite valeur >0
 * Modification des sprites par script
 * Les animators SetTrigger
-* Axe d'amélioration remplacer les envois de messag dans les fonctions loadScene par des delegates.
+* Axe d'amÃ©lioration remplacer les envois de messag dans les fonctions loadScene par des delegates.
 
 
